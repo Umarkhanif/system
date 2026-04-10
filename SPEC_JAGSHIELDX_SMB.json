@@ -1,0 +1,22 @@
+{
+  "project": "JAGSHIELDX SMB Edition",
+  "version": "6.0.0",
+  "target_platform": "Fedora 39+",
+  "hardware_optimization": {
+    "cpu": "Intel i7 (12th Gen+)",
+    "gpu": "NVIDIA RTX 2050+",
+    "ram": "16GB+"
+  },
+  "core_agents": [
+    "OpenCode",
+    "Kilo",
+    "Qwen",
+    "Claude"
+  ],
+  "integrations": [
+    "Ollama",
+    "Docker",
+    "Git",
+    "PostgreSQL"
+  ]
+}
